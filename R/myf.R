@@ -6,7 +6,7 @@
 #'
 #' @param x a vector of double values
 #'
-#' @return a vector of doubles
+#' @return a vector of doubles.
 #' @export
 #'
 #' @examples
